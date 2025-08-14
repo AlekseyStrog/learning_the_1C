@@ -1,42 +1,42 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <MetaDataObject xmlns="http://v8.1c.ru/8.3/MDClasses" xmlns:app="http://v8.1c.ru/8.2/managed-application/core" xmlns:cfg="http://v8.1c.ru/8.1/data/enterprise/current-config" xmlns:cmi="http://v8.1c.ru/8.2/managed-application/cmi" xmlns:ent="http://v8.1c.ru/8.1/data/enterprise" xmlns:lf="http://v8.1c.ru/8.2/managed-application/logform" xmlns:style="http://v8.1c.ru/8.1/data/ui/style" xmlns:sys="http://v8.1c.ru/8.1/data/ui/fonts/system" xmlns:v8="http://v8.1c.ru/8.1/data/core" xmlns:v8ui="http://v8.1c.ru/8.1/data/ui" xmlns:web="http://v8.1c.ru/8.1/data/ui/colors/web" xmlns:win="http://v8.1c.ru/8.1/data/ui/colors/windows" xmlns:xen="http://v8.1c.ru/8.3/xcf/enums" xmlns:xpr="http://v8.1c.ru/8.3/xcf/predef" xmlns:xr="http://v8.1c.ru/8.3/xcf/readable" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="2.20">
-	<Configuration uuid="100ffd4e-ef30-4b44-810d-10b463952245">
+	<Configuration uuid="8649bcbe-921a-4740-bc25-2978ad62103e">
 		<InternalInfo>
 			<xr:ContainedObject>
 				<xr:ClassId>9cd510cd-abfc-11d4-9434-004095e12fc7</xr:ClassId>
-				<xr:ObjectId>380f8b40-3b5e-44cc-a7ef-7dc715a79cc3</xr:ObjectId>
+				<xr:ObjectId>4583a385-80f3-4d79-b833-7fabe0498561</xr:ObjectId>
 			</xr:ContainedObject>
 			<xr:ContainedObject>
 				<xr:ClassId>9fcd25a0-4822-11d4-9414-008048da11f9</xr:ClassId>
-				<xr:ObjectId>1490d290-09c5-46d9-a1ea-f7bbaedabad3</xr:ObjectId>
+				<xr:ObjectId>cd39870c-e946-4e9c-b2c5-69147689c7e2</xr:ObjectId>
 			</xr:ContainedObject>
 			<xr:ContainedObject>
 				<xr:ClassId>e3687481-0a87-462c-a166-9f34594f9bba</xr:ClassId>
-				<xr:ObjectId>5083735b-4d76-46c3-94d8-09c287de0bfe</xr:ObjectId>
+				<xr:ObjectId>2e631260-9579-40f8-8265-50eda39a2957</xr:ObjectId>
 			</xr:ContainedObject>
 			<xr:ContainedObject>
 				<xr:ClassId>9de14907-ec23-4a07-96f0-85521cb6b53b</xr:ClassId>
-				<xr:ObjectId>7f3222ce-5a41-4baf-ac6b-4df059aa4142</xr:ObjectId>
+				<xr:ObjectId>267b6fbe-2919-44a4-866d-b0b6d75bdf54</xr:ObjectId>
 			</xr:ContainedObject>
 			<xr:ContainedObject>
 				<xr:ClassId>51f2d5d8-ea4d-4064-8892-82951750031e</xr:ClassId>
-				<xr:ObjectId>93c86405-15e7-4d4e-9cfd-5e1e34381858</xr:ObjectId>
+				<xr:ObjectId>15c9f567-85a2-4b82-ba05-7220e24feeee</xr:ObjectId>
 			</xr:ContainedObject>
 			<xr:ContainedObject>
 				<xr:ClassId>e68182ea-4237-4383-967f-90c1e3370bc7</xr:ClassId>
-				<xr:ObjectId>e0a4ec52-7f4d-4d09-9a14-ea79645b0e6a</xr:ObjectId>
+				<xr:ObjectId>fed65f08-f492-4562-b385-e8f607daab0b</xr:ObjectId>
 			</xr:ContainedObject>
 			<xr:ContainedObject>
 				<xr:ClassId>fb282519-d103-4dd3-bc12-cb271d631dfc</xr:ClassId>
-				<xr:ObjectId>2f0317ed-bf09-4fc3-b9a0-5fc3f847ef0f</xr:ObjectId>
+				<xr:ObjectId>92b20798-0d24-469a-bcf3-690b762ce27c</xr:ObjectId>
 			</xr:ContainedObject>
 		</InternalInfo>
 		<Properties>
-			<Name>НеКИИМО</Name>
+			<Name>неКИИИМО</Name>
 			<Synonym>
 				<v8:item>
 					<v8:lang>ru</v8:lang>
-					<v8:content>Торговый дом "Тест 1"</v8:content>
+					<v8:content>Торговый дом "Test 1"</v8:content>
 				</v8:item>
 			</Synonym>
 			<Comment/>
@@ -49,7 +49,7 @@
 			<ScriptVariant>Russian</ScriptVariant>
 			<DefaultRoles/>
 			<Vendor/>
-			<Version>0.0.0.1</Version>
+			<Version>0.0.0.2</Version>
 			<UpdateCatalogAddress/>
 			<IncludeHelpInContents>false</IncludeHelpInContents>
 			<UseManagedFormInOrdinaryApplication>false</UseManagedFormInOrdinaryApplication>
@@ -250,6 +250,16 @@
 		</Properties>
 		<ChildObjects>
 			<Language>Русский</Language>
+			<Subsystem>ОперативныйУчет</Subsystem>
+			<Subsystem>БухгалтерскийУчет</Subsystem>
+			<Subsystem>Расчет</Subsystem>
+			<Subsystem>БизнесПроцессы</Subsystem>
+			<Subsystem>Сервис</Subsystem>
+			<CommonPicture>ОперативыйУчет</CommonPicture>
+			<CommonPicture>БухгалтерскийУчет</CommonPicture>
+			<CommonPicture>Расчет</CommonPicture>
+			<CommonPicture>БизнесПроцессы</CommonPicture>
+			<CommonPicture>ОбщаяКартинка1</CommonPicture>
 		</ChildObjects>
 	</Configuration>
 </MetaDataObject>

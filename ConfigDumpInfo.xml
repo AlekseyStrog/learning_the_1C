@@ -1,7 +1,24 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <ConfigDumpInfo xmlns="http://v8.1c.ru/8.3/xcf/dumpinfo" xmlns:xen="http://v8.1c.ru/8.3/xcf/enums" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" format="Hierarchical" version="2.20">
 	<ConfigVersions>
-		<Metadata name="Configuration.НеКИИМО" id="100ffd4e-ef30-4b44-810d-10b463952245" configVersion="9a8ee59be2ccef40b3f97a6a9ca0488900000000"/>
-		<Metadata name="Language.Русский" id="43e2772e-6c17-4372-a0ed-82b78dd9cb31" configVersion="48951cbdabedfb4c875eef10030204e800000000"/>
+		<Metadata name="CommonPicture.БизнесПроцессы" id="359d3a48-5822-4e3c-a092-57e7f504a4cf" configVersion="e8d9e75d6a4449409ee821c88b51d2a000000000"/>
+		<Metadata name="CommonPicture.БизнесПроцессы.Picture" id="359d3a48-5822-4e3c-a092-57e7f504a4cf.0" configVersion="180bfc18363798418c293b4202bda66e00000000"/>
+		<Metadata name="CommonPicture.БухгалтерскийУчет" id="611da340-18ef-4d13-b330-6ebb83626984" configVersion="5682079379af1b48985f0c728c7dffe800000000"/>
+		<Metadata name="CommonPicture.БухгалтерскийУчет.Picture" id="611da340-18ef-4d13-b330-6ebb83626984.0" configVersion="7ce718a7a4675e41a7a2a62b07fc110c00000000"/>
+		<Metadata name="CommonPicture.ОбщаяКартинка1" id="dac391ed-2816-41af-bc3e-525688c52598" configVersion="70a0f14f3fce404f9d47f516c1fd5abf00000000"/>
+		<Metadata name="CommonPicture.ОбщаяКартинка1.Picture" id="dac391ed-2816-41af-bc3e-525688c52598.0" configVersion="7f58ebb3720e9f4595b4d1629d97f56100000000"/>
+		<Metadata name="CommonPicture.ОперативыйУчет" id="7817f677-ed0b-4154-90f7-93635f7a5945" configVersion="496d52e8002f164badce23825c8325b800000000"/>
+		<Metadata name="CommonPicture.ОперативыйУчет.Picture" id="7817f677-ed0b-4154-90f7-93635f7a5945.0" configVersion="7a9466d1392611459ab3852f1e69ac4d00000000"/>
+		<Metadata name="CommonPicture.Расчет" id="189f9c26-1807-4dfe-97e9-4d2f721726dd" configVersion="07c81df512aca14e8cfed37a6a2227a900000000"/>
+		<Metadata name="CommonPicture.Расчет.Picture" id="189f9c26-1807-4dfe-97e9-4d2f721726dd.0" configVersion="d543014aa7622e48980f8c52c85974d300000000"/>
+		<Metadata name="Configuration.неКИИИМО" id="8649bcbe-921a-4740-bc25-2978ad62103e" configVersion="70e519bfb1aeb141a8d27945b6cb19c200000000"/>
+		<Metadata name="Configuration.неКИИИМО.ClientApplicationInterface" id="4583a385-80f3-4d79-b833-7fabe0498561.b" configVersion="9e4c31a52e277b4d918cfb772e263e4b00000000"/>
+		<Metadata name="Configuration.неКИИИМО.CommandInterface" id="4583a385-80f3-4d79-b833-7fabe0498561.a" configVersion="81038a70d7ee094cb9b07ffd6b7a687700000000"/>
+		<Metadata name="Language.Русский" id="ee2d3853-bb0f-40e9-82f7-4c48381f2906" configVersion="e0b2b269b19fb546b377ddb93ebc912400000000"/>
+		<Metadata name="Subsystem.БизнесПроцессы" id="2e72c3ce-cd8a-4753-b772-aeae25abf070" configVersion="ac17efe6d9fc744da689c214400fc98900000000"/>
+		<Metadata name="Subsystem.БухгалтерскийУчет" id="4f7c2e09-4950-453e-b3e5-36dc5d67b88d" configVersion="3f65fad7c161d345a9184668512fbe2000000000"/>
+		<Metadata name="Subsystem.ОперативныйУчет" id="3b1c19ef-c5bd-465a-aff7-78d0187f5675" configVersion="c8924636aad2f14d8203d57c5485bdf000000000"/>
+		<Metadata name="Subsystem.Расчет" id="b43eb1a0-e984-44b8-9d0c-12d7e45899aa" configVersion="3ec5e3e555be8e44ba0c4c7cbc2fcf1900000000"/>
+		<Metadata name="Subsystem.Сервис" id="46ed45f0-75cd-462f-ad8b-5a1c5d14fec5" configVersion="5d421b5480761547a3aa16b5f8d45c0900000000"/>
 	</ConfigVersions>
 </ConfigDumpInfo>
